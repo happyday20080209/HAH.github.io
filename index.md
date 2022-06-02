@@ -1,30 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to HAH tutor group
 
-You can use the [editor on GitHub](https://github.com/happyday20080209/HAH.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website is built for HAH tutor group. You can see the changes of HAH on this website, and this website is only provided for HAH tutor group.
+Author telephone：15306490473 
+--By HAH student Aven
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This Tutor Group
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+This tutor group leader is hannaha. This tutor group is in U4. 
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
